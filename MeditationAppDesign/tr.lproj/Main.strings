@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "Pick a Narrator"; ObjectID = "DkV-Sn-g6y"; */
+"DkV-Sn-g6y.text" = "Bir Anlatıcı Seç";
+
+/* Class = "UILabel"; text = "COURSE"; ObjectID = "VCW-ge-mF5"; */
+"VCW-ge-mF5.text" = "Dinleti";
+
+/* Class = "UILabel"; text = "45 min"; ObjectID = "XRT-bZ-DTW"; */
+"XRT-bZ-DTW.text" = "45 dk";
+
+/* Class = "UIButton"; configuration.title = "Haluk Bilginer"; ObjectID = "Xjl-XL-qjN"; */
+"Xjl-XL-qjN.configuration.title" = "Haluk Bilginer";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Xjl-XL-qjN"; */
+"Xjl-XL-qjN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "This ambient tones will help you to get peace."; ObjectID = "ZLh-gf-NLn"; */
+"ZLh-gf-NLn.text" = "Bu ambiyans tonları huzuru bulmanıza yardımcı olacak.";
+
+/* Class = "UIButton"; configuration.title = "Tuncel Kurtiz"; ObjectID = "b3b-MI-Vd5"; */
+"b3b-MI-Vd5.configuration.title" = "Tuncel Kurtiz";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "b3b-MI-Vd5"; */
+"b3b-MI-Vd5.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Peaceful Morning"; ObjectID = "jLt-bf-p31"; */
+"jLt-bf-p31.text" = "Huzurlu Sabahlar";
+
+/* Class = "UIButton"; configuration.title = "Shakespeare"; ObjectID = "oNf-oi-Ea2"; */
+"oNf-oi-Ea2.configuration.title" = "Shakespeare";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "oNf-oi-Ea2"; */
+"oNf-oi-Ea2.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Harun Can"; ObjectID = "rZc-58-h7I"; */
+"rZc-58-h7I.configuration.title" = "Harun Can";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rZc-58-h7I"; */
+"rZc-58-h7I.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "12.261 person's favorite"; ObjectID = "zNH-PR-PcZ"; */
+"zNH-PR-PcZ.text" = "12.261 kişinin favorisi";
